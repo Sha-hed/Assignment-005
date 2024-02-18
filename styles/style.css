@@ -1,0 +1,24 @@
+th,
+.b {
+    padding: 10px 50px;
+}
+
+.c {
+    display: flex;
+}
+
+.d {
+    font-weight: bold;
+}
+
+.ee {
+    color: white;
+    font-weight: bold;
+    background-color: green;
+    border-radius: 10px;
+    padding: 2px 5px;
+}
+
+.di {
+    font-weight: 600;
+}
