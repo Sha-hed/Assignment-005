@@ -65,7 +65,7 @@ function getText() {
   else if(l.value === 'Couple 20'){
     change20()
   }else{
-    alert("This Cupoon is not valid")
+    alert("This Coupon is not valid")
   }
 }
 function change15(){
