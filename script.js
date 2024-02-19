@@ -106,11 +106,3 @@ function change20(){
   h2.innerText='BDT'+ "   -"+0.2*gp;
   dis_pri.appendChild(h2);
 }
-function khela(){
-  const a = document.getElementById('header');
-  a.classList.add('hidden');
-  const b = document.getElementById('coupon');
-  b.classList.add('hidden');
-  const c = document.getElementById('footer');
-  c.classList.add('hidden');
-}
