@@ -12,7 +12,12 @@ th,
 .b {
     padding: 10px 50px;
 }
-
+.m{
+    padding: 10px 40px;
+}
+.f{
+    padding: 10px 60px;
+}
 .c {
     display: flex;
 }
